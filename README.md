@@ -8,9 +8,10 @@
 - [x] [Emojis](#emojis)
 - [x] [Tables](#tables)
 
-## External Link
+## External Links
 
 You can find github documentation [here](github.io)
+
 [checkboxes](#checkboxes)
 
 [Google-Link](https://www.google.de)
