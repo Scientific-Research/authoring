@@ -1,24 +1,37 @@
-# Advanced Markdown
+# Github Flavoured Markdown
 
 ## Checkboxes
 
-- [ ] Reisepass beantragen
-- [x] Visum bezahlt
-- [ ] Hotel buchen
-- [ ] Telefon umstellen
+- [x] [External Links](#external-links)
+- [ ] [Internal Links](#internal-links)
+- [x] Images(#images)
+- [x] Emojis(#emojis)
+- [x] Tables
 
-## Link
+## External Link
 
+You can find github documentation [here](github.io)
 [checkboxes](#checkboxes)
 
 [Google-Link](https://www.google.de)
 
 [YouTube-Link](https://www.Youttube.com)
 
+## Internal Links
+
+Jump back to [start](#github-flavoured-markdown)
+
+## Images
+
+![pinguin](https://upload.wikimedia.org/wikipedia/commons/a/a1/Falkland_Islands_Penguins_36.jpg)
+
 ## Emojis
 
 :bowtie:
 :smile:
+:laughing:
+
+## Tables
 
 | Vorname    | Nachname | Geburtstag | Geburtsort | Telefonnummer |
 | ---------- | -------- | ---------- | ---------- | ------------- |
