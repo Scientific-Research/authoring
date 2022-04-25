@@ -33,9 +33,9 @@ Jump back to [start](#github-flavoured-markdown)
 
 ## Tables
 
-| Vorname    | Nachname | Geburtstag | Geburtsort | Telefonnummer |
-| ---------- | -------- | ---------- | ---------- | ------------- |
-| Maximilian | Karimi   | 11.09.1980 | Isfahan    | 123456        |
+| Vorname    | Nachname | Language | Geburtsort | Telefonnummer |
+| ---------- | -------- | -------- | ---------- | ------------- |
+| Maximilian | Karimi   | Deutsch  | Isfahan    | 123456        |
 
 ## Link to the images folder
 
