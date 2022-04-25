@@ -47,4 +47,4 @@ Jump back to [start](#github-flavoured-markdown)
 ![Logo](/Images/image.png)
 
 ## Highlight a text
-I need to highlight these `ǜery important words`.
+I need to highlight these `very important words`.
