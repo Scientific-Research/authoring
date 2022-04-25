@@ -4,9 +4,9 @@
 
 - [x] [External Links](#external-links)
 - [ ] [Internal Links](#internal-links)
-- [x] Images(#images)
-- [x] Emojis(#emojis)
-- [x] Tables
+- [x] [Images](#images)
+- [x] [Emojis](#emojis)
+- [x] [Tables](#tables)
 
 ## External Link
 
@@ -44,3 +44,6 @@ Jump back to [start](#github-flavoured-markdown)
 ## Add the image from the images folder
 
 ![Logo](/Images/image.png)
+
+## Highlight a text
+I need to highlight these `ǜery important words`.
