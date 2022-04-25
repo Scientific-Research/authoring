@@ -10,7 +10,7 @@
 
 ## External Links
 
-You can find github documentation [here](github.io)
+You can find github documentation [here](https://pages.github.com/)
 
 [checkboxes](#checkboxes)
 
