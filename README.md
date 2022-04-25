@@ -34,7 +34,7 @@ Jump back to [start](#github-flavoured-markdown)
 
 ## Tables
 
-| Vorname    | Nachname | Language | Geburtsort | Telefonnummer |
+| Vorname    | Nachname | Sprache | Geburtsort | Telefonnummer |
 | ---------- | -------- | -------- | ---------- | ------------- |
 | Maximilian | Karimi   | Deutsch  | Isfahan    | 123456        |
 
