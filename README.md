@@ -15,7 +15,7 @@ You can find github documentation [here](github.io)
 
 [Google-Link](https://www.google.de)
 
-[YouTube-Link](https://www.Youttube.com)
+[YouTube-Link](https://www.Youtube.com)
 
 ## Internal Links
 
