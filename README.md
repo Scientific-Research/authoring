@@ -30,4 +30,4 @@
 
 ## Add the image from the images folder
 
-![Logo](/Images/logo.png)
+![Logo](/Images/logo(1).png)
